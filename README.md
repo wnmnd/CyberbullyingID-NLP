@@ -1,4 +1,4 @@
-# Cyberbullying Detection in Indonesian Tweets Using NLP and Machine Learning
+# Cyberbullying Classification in Indonesian Tweets Using NLP and Machine Learning
 A machine learning project focused on detecting cyberbullying in Indonesian tweets using Natural Language Processing (NLP). This repository compares three algorithms, including Support Vector Machine (SVM), Random Forest (RF), and Naive Bayes, for classification.
 
 ## Project Overview
